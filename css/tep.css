@@ -50,21 +50,6 @@ img.img-fluid.rounded.w-100 {
 
 
 
-#text  {
-  background: radial-gradient(
-    circle at 100%,
-    hsl(166, 93%, 82%) ,
-    #0aae8a 50%,
-    #00d09f 75%,
-    #63f2d1 75%
-  );
-  font-weight: 600;
-  background-size: 200% auto;
-  color: #000;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: animatedTextGradient 1.5s linear infinite;
-  }
   
   .block-1 {
     width: 100%;
