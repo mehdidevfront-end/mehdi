@@ -1,0 +1,127 @@
+.app .block-1 a.navbar-brand.d-flex.align-items-center.text-center.logo h1 {
+    font-size: 18px;
+}
+
+.block-1 {
+  width: 100%;
+  position: fixed;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  background: radial-gradient(
+    circle at 100%,
+    hsl(166, 93%, 82%) ,
+    #0aae8a 50%,
+    #00d09f 75%,
+    #63f2d1 75%
+  );
+
+  font-weight: 600;
+  background-size: 200% auto;
+  color: #000;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: animatedTextGradient 1.5s linear infinite;
+  animation: animatedTextGradient 1.5s linear infinite;
+  font-weight: 500;
+  border-bottom: #00B98E solid 2px;
+  padding: 10px 15px;
+  background: #0e2e 5;
+  margin: 13px;
+  border-radius: 6px;
+  border-top: #00B98E solid 2px;
+}
+.app .block-1 a.navbar-brand.d-flex.align-items-center.text-center.logo h1  {
+  color:    #0aae8a 
+  
+  }
+  
+  @keyframes animatedTextGradient {
+    to {
+      background-position: 200% center;
+    }
+  }
+  .blcok-2 h1.mb-3 {
+    font-size: 35px;
+}
+img.img-fluid.rounded.w-100 {
+  border-radius: 67% !important;
+}
+.block-3 img.img-fluid {
+  height: 45px;
+  width: 50px;
+}
+.property-item {
+  box-shadow: 0 0 30px rgba(0, 0, 0, .08);
+  height: 100%;
+}
+#backgroundFFF {
+  background-color: #ffffff;
+}
+
+
+
+
+
+
+.d-flex.align-items-center.bg-white.rounded.p-3:hover {
+  background-color: #0e2e500a!important;
+}
+
+
+
+
+
+.block-4 .col-lg-4.col-md-6.wow.fadeInUp:hover a.d-block.h5.mb-2{
+  background: radial-gradient(
+    circle at 100%,
+    hsl(166, 93%, 82%) ,
+    #0aae8a 50%,
+    #00d09f 75%,
+    #63f2d1 75%
+  );
+  font-weight: 600;
+  background-size: 200% auto;
+  color: #000;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: animatedTextGradient 1.5s linear infinite;
+  animation: animatedTextGradient 1.5s linear infinite;
+  font-weight: 500;
+
+}
+
+
+
+#text  {
+  background: radial-gradient(
+    circle at 100%,
+    hsl(166, 93%, 82%) ,
+    #0aae8a 50%,
+    #00d09f 75%,
+    #63f2d1 75%
+  );
+  font-weight: 600;
+  background-size: 200% auto;
+  color: #000;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: animatedTextGradient 1.5s linear infinite;
+  }
+  
+  .block-1 {
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    top: -48px;
+}
+div#blcok-2 {
+  padding-top: 40px;
+}
+@media only screen and (max-width: 600px) {
+  .block-1 {
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    top: 0px;
+}
+}
